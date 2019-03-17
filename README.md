@@ -1,5 +1,5 @@
 # Smart-Mirror
-
+![Smart Mirror](https://github.com/pratyushmichael/Smart-Mirror/blob/master/imgs/demo.jpeg)
 ## ABSTRACT
 Smart Mirror gives user an interface to virtually try the clothes of his/her choice. It is like a virtual trial room, where the person can try on the clothes virtually. There’s also a separate interface for voice recognition which also triggers certain actions when user speaks some specific commands. Kinect Sensor (v1) is used to detect body gestures, skeleton points and also for voice recognition. Visual Studio is used for front end interface.
 ## SETUP
